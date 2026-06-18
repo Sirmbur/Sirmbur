@@ -18,7 +18,8 @@ I'm a backend developer and network technician focused on building robust infras
 ## 📊 GitHub Stats
 
 ![Mburu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirmbur&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmbur&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmbur&layout=compact&theme=tokyonight&hide=javascript,html,css)
+
 
 ## 📫 How to Reach Me
 
